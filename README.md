@@ -1,5 +1,5 @@
-# 1001-ways-to-start-a-server
+## (1001-ways-to-start-a-server):-
 :) A fun repo for HacktoberFest 2021
 
-## Naming convention:
+## (Naming convention):-
 ServerType-Language.extension
